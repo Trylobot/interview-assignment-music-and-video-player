@@ -1,0 +1,19 @@
+{
+  "name": "interview-assignment-music-and-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trylobot/interview-assignment-music-and-video-player.git"
+  },
+  "author": "Tyler Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trylobot/interview-assignment-music-and-video-player/issues"
+  },
+  "homepage": "https://github.com/Trylobot/interview-assignment-music-and-video-player#readme"
+}
