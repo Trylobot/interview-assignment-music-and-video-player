@@ -6,3 +6,7 @@ export const store = configureStore({
     video: videoReducer,
   },
 });
+
+// Inferred types for RootState and AppDispatch
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;

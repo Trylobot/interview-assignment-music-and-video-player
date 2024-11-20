@@ -10,7 +10,7 @@ import { join } from 'path';
   imports: [
     // Serve static files from the React app's build directory
     ServeStaticModule.forRoot({
-      rootPath: join(__dirname,'..','frontend','build'),
+      rootPath: join(process.cwd(),'frontend','build'),
     }),
   ],
   controllers: [AppController,VideosController],
