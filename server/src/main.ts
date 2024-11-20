@@ -14,14 +14,22 @@ async function bootstrap() {
       // database
       let videos = await AppDataSource.manager.find(Video);
       if (videos.length == 0) {
-        // initialize Videos table with an example
-        const ex = new Video();
-        ex.name = '"Simple Made Easy" - Rich Hickey (2011)';
-        ex.url = 'https://www.youtube.com/watch?v=SxdOUGdseq4';
-        ex.createdAt = Math.floor(Date.now() / 1000);
-        ex.updatedAt = ex.createdAt;
-        await AppDataSource.manager.save( ex );
-        console.log("Saved Video with id: " + ex.id );
+        // initialize Videos table with a couple of examples
+        
+        const ex1 = new Video();
+        ex1.name = '"Simple Made Easy" - Rich Hickey (2011)';
+        ex1.url = 'https://www.youtube.com/watch?v=SxdOUGdseq4';
+        ex1.createdAt = Math.floor(Date.now() / 1000);
+        ex1.updatedAt = ex1.createdAt;
+        await AppDataSource.manager.save( ex1 );
+        
+        const ex2 = new Video();
+        ex2.name = '† Carpenter Brut † TURBO KILLER † Directed by Seth Ickerman † Official Video †';
+        ex2.url = 'https://www.youtube.com/watch?v=er416Ad3R1g';
+        ex2.createdAt = Math.floor(Date.now() / 1000);
+        ex2.updatedAt = ex2.createdAt;
+        await AppDataSource.manager.save( ex2 );
+        
         videos = await AppDataSource.manager.find(Video);
       }
       console.log("Loaded videos: ", videos)
