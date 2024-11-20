@@ -10,6 +10,10 @@ export class AppService {
   }
 
   async getVideos(): Promise<Video[]> {
-    return await AppDataSource.manager.find(Video);
+    return await AppDataSource.manager.find( Video );
+  }
+
+  async getVideo( id:number ): Promise<Video|null> {
+    return await AppDataSource.manager.findOneBy( Video, { id })
   }
 }
