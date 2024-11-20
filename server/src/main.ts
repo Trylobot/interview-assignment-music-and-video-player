@@ -28,6 +28,7 @@ async function bootstrap() {
 
       // webserver
       const app = await NestFactory.create(AppModule);
+      app.enableCors(); // Enable CORS
       await app.listen(process.env.PORT ?? 3000);
 
   }).catch(error => console.log(error))
