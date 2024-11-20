@@ -1,0 +1,963 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"replace",
+				"replacement_tex_image"
+			],
+			[
+				"repla",
+				"replacement_tex_image"
+			],
+			[
+				"Emb",
+				"EmbeddedTextures"
+			],
+			[
+				"SB_Set",
+				"SB_SetText()"
+			],
+			[
+				"trans",
+				"translated_position_key"
+			],
+			[
+				"posi",
+				"position_key"
+			],
+			[
+				"dire",
+				"direction_name"
+			],
+			[
+				"look",
+				"lookup_coplanar_adjacent_pieces"
+			],
+			[
+				"check",
+				"check_movement"
+			],
+			[
+				"encode",
+				"encoded_position"
+			],
+			[
+				"crea",
+				"create_game"
+			],
+			[
+				"row",
+				"row_0"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"serv",
+				"server_port"
+			],
+			[
+				"plan",
+				"plan_processing"
+			],
+			[
+				"global",
+				"global_sort_order"
+			],
+			[
+				"add",
+				"addRow"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"current",
+				"current_document_section"
+			],
+			[
+				"current_",
+				"current_document_section"
+			],
+			[
+				"str_replace",
+				"str_replace"
+			],
+			[
+				"sort",
+				"sort_compare"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"mw",
+				"Mediawiker: Select wiki"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 122.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Dev/interview-assignment-music-and-video-player"
+	],
+	"file_history":
+	[
+		"/G/Dev/interview-assignment-music-and-video-player/README.MD",
+		"/G/Dev/interview-assignment-music-and-video-player/server/src/main.ts",
+		"/G/Dev/interview-assignment-music-and-video-player/server/src/app.service.ts",
+		"/G/Dev/interview-assignment-music-and-video-player/mysql.install.log",
+		"/C/Users/tyler/Desktop/Inscryption/New Text Document.txt",
+		"/C/Users/tyler/Desktop/Inscryption/1.txt",
+		"/C/Users/tyler/Desktop/Unemployment/Thermo Fisher Scientific.txt",
+		"/C/Users/tyler/Desktop/Vanta.txt",
+		"/G/Node Projects/hive/nw/distro/run-hive.bat",
+		"/C/Users/tyler/Desktop/Ender - Copy.txt",
+		"/C/Users/tyler/Desktop/Work verification.txt",
+		"/C/Users/tyler/Desktop/Ender.txt",
+		"/C/Users/tyler/Desktop/notepad/notepad.txt",
+		"/C/Users/tyler/Desktop/notepad/bobs_burgers.txt",
+		"/C/Users/tyler/AppData/Local/Roblox/GlobalBasicSettings_13.xml",
+		"/C/Users/tyler/Desktop/notepad/.gitignore",
+		"/G/Electron Projects/desert-car-game-electron/desert-car-game-electron.sublime-project",
+		"/G/Electron Projects/desert-car-game-electron/.gitignore",
+		"/G/Electron Projects/desert-car-game-electron/main.js",
+		"/G/Electron Projects/desert-car-game-electron/renderer/renderer.js",
+		"/G/Electron Projects/desert-car-game-electron/renderer/car.js",
+		"/G/Electron Projects/desert-car-game-electron/project.sublime-project",
+		"/C/Users/tyler/Desktop/notepad/reading_list.txt",
+		"/C/Users/tyler/Desktop/notepad/demon court raid targets.txt",
+		"/C/Users/tyler/Desktop/notepad/watch_list.txt",
+		"/G/Electron Projects/desert-car-game-electron/renderer/gamepad.js",
+		"/G/Electron Projects/desert-car-game-electron/renderer/particles.js",
+		"/G/Electron Projects/desert-car-game-electron/index.html",
+		"/G/Electron Projects/desert-car-game-electron/package.json",
+		"/G/Electron Projects/desert-car-game-electron/styles.css",
+		"/G/Electron Projects/desert-car-game-electron/renderer.js",
+		"/G/Electron Projects/desert-car-game-electron/preload.js",
+		"/G/ClojureScript Projects/desert_car_game_clojurescript_chatgpt/public/index.html",
+		"/G/ClojureScript Projects/desert_car_game_clojurescript_chatgpt/package.json",
+		"/G/ClojureScript Projects/desert_car_game_clojurescript_chatgpt/src/driving_game/core.cljs",
+		"/G/ClojureScript Projects/desert_car_game_clojurescript_chatgpt/shadow-cljs.edn",
+		"/G/ClojureScript Projects/desert_car_game_clojurescript_chatgpt/src/core.cljs",
+		"/C/Users/tyler/Desktop/notepad/runa_demon_court_custom_avatar_plans.txt",
+		"/G/Node-Webkit Projects/hive/nw/package.json",
+		"/G/Node-Webkit Projects/hive/nw/distro/run-hive.bat",
+		"/G/Node-Webkit Projects/hive/package.json",
+		"/G/Node-Webkit Projects/hive/core/domain/util.js",
+		"/G/Node-Webkit Projects/hive/core/core.js",
+		"/G/Node-Webkit Projects/hive/test/rules-tests.js",
+		"/G/Node-Webkit Projects/hive/test/position-tests.js",
+		"/G/Node-Webkit Projects/hive/test/board-tests.js",
+		"/G/Node-Webkit Projects/hive/test/util-tests.js",
+		"/G/Node-Webkit Projects/hive-npm/package.json",
+		"/G/Electron Projects/Hive-Electron-v32/web/index.html",
+		"/G/Electron Projects/Hive-Electron-v32/main.js",
+		"/G/Electron Projects/Hive-Electron-v32/preload.js",
+		"/G/Electron Projects/Hive-Electron-v32/package.json",
+		"/G/Electron Projects/Hive-Electron-v32/web/play-game.js",
+		"/C/Users/tyler/Desktop/notepad/trixie_fancy_plans.txt",
+		"/C/Users/tyler/Desktop/notepad/learning_arabic.txt",
+		"/C/Users/tyler/Desktop/notepad/jokes.txt",
+		"/C/Users/tyler/Desktop/notepad/to_buy.txt",
+		"/C/Users/tyler/Desktop/notepad/medication_research.txt",
+		"/C/Users/tyler/Desktop/notepad/vrc_quest_transparency.txt",
+		"/C/Users/tyler/Desktop/notepad/avatar_tips.txt",
+		"/C/Users/tyler/Desktop/idle.txt",
+		"/C/Users/tyler/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/tyler/Desktop/notepad.txt",
+		"/G/Electron Projects/Hive-Electron-v32/hive-master/nw/package.json",
+		"/G/Blender Projects/DEMON CHESS/.gitignore",
+		"/G/Electron Projects/Hive-Electron-v32/install_winget.bat",
+		"/G/Blender Projects/RUNA MOD FOR DEMON COURT/DEMON COURT NOTES.TXT",
+		"/C/Users/tyler/Desktop/Raen_b-day_2024.txt",
+		"/C/Users/tyler/Desktop/backup.txt",
+		"/G/Blender Projects/RUNA MOD FOR DEMON COURT/.gitignore",
+		"/C/Users/tyler/Desktop/amex acct.txt",
+		"/C/Users/tyler/Desktop/idle",
+		"/G/Blender Projects/RUNA MOD FOR DEMON COURT/CREDITS.TXT",
+		"/G/Blender Projects/BLENDER GPT JEWELRY PROJECT/.gitignore",
+		"/C/Users/tyler/Desktop/RX-8 DEATH CAR CONVERSION PROJECT.TXT",
+		"/C/Users/tyler/Desktop/grp_045572d6-c5e9-4403-8aff-e7effdf93704_members.json",
+		"/C/Users/tyler/Desktop/Tryl/Tryl.prompt.txt",
+		"/G/Downloads/Tryl.txt",
+		"/C/Users/tyler/Desktop/run_ollama.bat",
+		"/C/Users/tyler/Desktop/vida.txt",
+		"/G/Downloads/PC+Quest Aria_LicenseKey.txt",
+		"/G/Downloads/MunifiSense---VRChat-Build-Size-Viewer---README.txt",
+		"/G/VRChat Projects/Demon Chess/Assets/ArchiTechAnon/ProTV/README.md",
+		"/G/VRChat Projects/Demon Chess/Packages/com.emymin.emychess/README.md",
+		"/C/Users/tyler/Desktop/YouTube Data API/Trylobot - playlists - page 1.txt",
+		"/C/Users/tyler/Desktop/YouTube Data API/Trylobot - playlists - page 2.txt",
+		"/C/Users/tyler/Desktop/YouTube Data API/Trylobot - playlists - page 3.txt",
+		"/C/Users/tyler/Desktop/YouTube Data API/Trylobot - playlists - page 4.txt",
+		"/C/Users/tyler/Desktop/YouTube Data API/Trylobot - playlists - detail/2011-07 (I'm On One) - page 1.txt",
+		"/G/Downloads/bat_and_bunny_archive_pws.txt",
+		"/C/Users/tyler/Pictures/Textures/monogrammed H luxury clothing tag/chatgpt.txt",
+		"/G/VRChat Projects/Heathen/Assets/PleasureArcade/ThiccWater/README.txt",
+		"/C/Users/tyler/Pictures/Textures/monogrammed H luxury clothing tag/New Text Document.txt",
+		"/G/VRChat Projects/Heathen Quest/Assets/Trylobot/hue_unifiedAnim_quest_2xsensitive.anim",
+		"/G/Downloads/Okaeri_RCCar_2.0/InGame_Use.txt",
+		"/C/Users/tyler/Desktop/vrc_vivikin_edit_roadmap.md",
+		"/C/Users/tyler/Desktop/wtf_dude.txt",
+		"/C/Users/tyler/Desktop/vrc_vivikin_edit_roadmap.txt",
+		"/G/Dev/gpt-engineer/openai__secret_key__gpt_engineer.txt",
+		"/G/Dev/gpt-engineer/snake.txt",
+		"/C/Users/tyler/Desktop/heathen plan.txt",
+		"/C/Users/tyler/Desktop/heathen todo",
+		"/C/Users/tyler/Desktop/roof claim info.txt",
+		"/G/VRChat Projects/Heathen Opti/Assets/Heathen Final/3.0/Layers/FX RED.controller",
+		"/G/VRChat Projects/Heathen/Assets/Heathen DPS/3.0/Animations/Penis Non-DPS Toggled.anim",
+		"/G/VRChat Projects/Heathen/Assets/Heathen DPS/3.0/Animations/Penis Non-DPS Default.anim",
+		"/G/VRChat Projects/Nijah_attempt2/Assets/VRCSDK/version.txt",
+		"/G/VRChat Projects/Nijah_attempt2/Assets/VRCSDK/license.txt",
+		"/C/Users/tyler/Downloads/SemiDreamatic Readme Updated.txt",
+		"/G/VRChat Projects/Nijah_attempt2-Migrated/Packages/com.vrchat.base/package.json",
+		"/C/Users/tyler/Downloads/GoLoco.v.1.7.91/README!.txt",
+		"/G/VRChat Projects/KentTheStalker/Assets/GoGo/GoLoco/README!.txt",
+		"/C/Users/tyler/Downloads/Thank You for your purchase and Please Read This..txt",
+		"/C/Users/tyler/Downloads/RetroDiffusion/README.txt",
+		"/C/Users/tyler/Downloads/_dl__shampoo_akane_and_ranma_chan_3d_model_by_banchouforte_dfuc8rx/Helpful tips for my models.txt",
+		"/C/Users/tyler/Downloads/LudicaTheSuccubus_LicenseKey.txt",
+		"/C/Users/tyler/AppData/Roaming/UnityHub/editors-v2.json",
+		"/C/Users/tyler/Downloads/Echo Optimized/instructions.txt",
+		"/C/Users/tyler/Desktop/junk king.txt",
+		"/C/Users/tyler/AppData/LocalLow/VRChat/VRChat/config.json",
+		"/C/Users/tyler/Downloads/TheDominanceAnubis_v1/Readme.txt",
+		"/C/Users/tyler/Downloads/SummertimeAnubis_v1_00/Readme.txt",
+		"/C/Users/tyler/Downloads/Dual Photon Saber - License key.txt",
+		"/C/Users/tyler/Desktop/avatar_blueprint_ids.txt",
+		"/C/Users/tyler/Downloads/Echo Kiss Custom By Kissou FULL/Instruction and Help.txt",
+		"/C/Users/tyler/Desktop/driver 4 vr.txt",
+		"/F/Dev/LlamaCPP/Liliths_club_The_Contract.tx.txt",
+		"/F/Dev/LlamaCPP/output_1.txt"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"VREnabled"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "this-project.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"replace",
+				"UndertaleModTool\\CommunityScripts\\ReplaceEmbeddedTextures.csx"
+			],
+			[
+				"UndertaleEmbeddedTexture",
+				"UndertaleModLib\\Models\\UndertaleEmbeddedTexture.cs"
+			],
+			[
+				"legionxiv",
+				"vanilla\\hulls\\skins\\legion_xiv.skin"
+			],
+			[
+				"xiv.skin",
+				"vanilla\\hulls\\skins\\legion_xiv.skin"
+			],
+			[
+				"customenti",
+				"vanilla\\config\\custom_entities.json"
+			],
+			[
+				"piece",
+				"core/domain/piece.js"
+			],
+			[
+				"index",
+				"index.js"
+			],
+			[
+				"asura",
+				"mods/Blackrock Drive Yards/data/variants/brdy_asura_assault.variant"
+			],
+			[
+				"settings",
+				"vanilla/config/settings.json"
+			],
+			[
+				"flarelauncher",
+				"vanilla/shipsystems/flarelauncher.system"
+			],
+			[
+				"hound.ship",
+				"vanilla/hulls/hound.ship"
+			],
+			[
+				"fastmissileracks",
+				"vanilla/shipsystems/fastmissileracks.system"
+			],
+			[
+				"nomscarabvariant",
+				"mods/ss-nom/data/variants/fighters/nom_scarab_assault.variant"
+			],
+			[
+				"scarabvariant",
+				"mods/Blackrock Drive Yards/data/variants/scarab_attack.variant"
+			],
+			[
+				"nomscara",
+				"mods/ss-nom/data/hulls/nom_scarab.ship"
+			],
+			[
+				"geckovariant",
+				"mods/ss-nom/data/variants/drones/nom_gecko_drone.variant"
+			],
+			[
+				"nomshipdata",
+				"mods/ss-nom/data/hulls/ship_data.csv"
+			],
+			[
+				"geck",
+				"mods/ss-nom/data/hulls/nom_gecko.ship"
+			],
+			[
+				"damtowcable",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"nomcharcrea",
+				"mods/ss-nom/data/scripts/plugins/TheNomadsCharacterCreationPlugin.java"
+			],
+			[
+				"nomroad",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"nomfac",
+				"mods/ss-nom/data/world/factions/nomads.faction"
+			],
+			[
+				"titlescreen",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"simop",
+				"mods/ss-nom/data/campaign/sim_opponents.csv"
+			],
+			[
+				"nom_tow_cable",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"tow_cable_anc",
+				"mods/ss-nom/data/weapons/nom_decorative_tow_cable_anchor.wpn"
+			],
+			[
+				"roadrunnership",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"roadrunner",
+				"mods/ss-nom/data/variants/nom_roadrunner_pursuit.variant"
+			],
+			[
+				"roadrunnerpurs",
+				"mods/ss-nom/data/variants/nom_roadrunner_pursuit.variant"
+			],
+			[
+				"nom_decorat",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"nomsystems",
+				"mods/ss-nom/data/shipsystems/ship_systems.csv"
+			],
+			[
+				"nomcross",
+				"mods/ss-nom/data/weapons/nom_decorative_oasis_habitat_ring_structural_support_beam.wpn"
+			],
+			[
+				"nomdamsel",
+				"mods/ss-nom/data/hulls/nom_damselfly.ship"
+			],
+			[
+				"conquest",
+				"vanilla/hulls/conquest.ship"
+			],
+			[
+				"drone_sensor",
+				"vanilla/shipsystems/drone_sensor.system"
+			],
+			[
+				"roadrunn",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"apogee",
+				"vanilla/variants/apogee_Balanced.variant"
+			],
+			[
+				"retribution",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"masershot",
+				"mods/ss-nom/data/weapons/proj/nom_ultralight_electron_maser_shot.proj"
+			],
+			[
+				"vansounds",
+				"vanilla/config/sounds.json"
+			],
+			[
+				"nomsounds",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"nomfaction",
+				"mods/ss-nom/data/world/factions/nomads.faction"
+			],
+			[
+				"nomsettings",
+				"mods/ss-nom/data/config/settings.json"
+			],
+			[
+				"vanillasounds",
+				"vanilla/config/sounds.json"
+			],
+			[
+				"nommaserpu",
+				"mods/ss-nom/data/weapons/nom_maser_pulse_beam.wpn"
+			],
+			[
+				"doomcannon",
+				"mods/ss-nom/data/weapons/nom_doom_cannon.wpn"
+			],
+			[
+				"nomretri",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"harpoon",
+				"vanilla/weapons/harpoon_single.wpn"
+			],
+			[
+				"nomre",
+				"mods/ss-nom/data/weapons/nom_retribution_postmortem_launcher.wpn"
+			],
+			[
+				"retribut",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"nomfang",
+				"mods/ss-nom/data/variants/fighters/nom_fang_bomber.variant"
+			],
+			[
+				"vansettin",
+				"vanilla/config/settings.json"
+			],
+			[
+				"nomsound",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"nomscorp",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"nomfly",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"nomkomo",
+				"mods/ss-nom/data/hulls/nom_komodo.ship"
+			],
+			[
+				"komodomk",
+				"mods/ss-nom/data/hulls/nom_komodo_mk2.ship"
+			],
+			[
+				"rattle",
+				"mods/ss-nom/data/hulls/nom_rattlesnake.ship"
+			],
+			[
+				"nomyello",
+				"mods/ss-nom/data/hulls/nom_yellowjacket.ship"
+			],
+			[
+				"retribproj",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"oasis",
+				"mods/ss-nom/data/hulls/nom_oasis.ship"
+			],
+			[
+				"nomshipnames",
+				"mods/ss-nom/data/strings/ship_names.json"
+			],
+			[
+				"nomshipname",
+				"mods/ss-nom/data/strings/ship_names.json"
+			],
+			[
+				"nomnur",
+				"mods/ss-nom/data/scripts/world/systems/TheNomadsNur.java"
+			],
+			[
+				"nomwingdata",
+				"mods/ss-nom/data/hulls/wing_data.csv"
+			],
+			[
+				"harpoonmrm",
+				"vanilla/weapons/proj/harpoon_mrm.proj"
+			],
+			[
+				"titlesc",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"reaper",
+				"vanilla/weapons/reaper.wpn"
+			],
+			[
+				"missions",
+				"mods/ss-nom/data/missions/mission_list.csv"
+			],
+			[
+				"flarelau",
+				"vanilla/shipsystems/flarelauncher.system"
+			],
+			[
+				"nomeffect",
+				"mods/ss-nom/data/weapons/nom_effect_faux_plasma.wpn"
+			],
+			[
+				"fangbomb",
+				"mods/ss-nom/data/variants/nom_fang_bomber.variant"
+			],
+			[
+				"nomfangbom",
+				"mods/ss-nom/data/variants/nom_fang_bomber.variant"
+			],
+			[
+				"gilamon",
+				"mods/ss-nom/data/variants/nom_gila_monster_antibattleship.variant"
+			],
+			[
+				"gilaship",
+				"mods/ss-nom/data/hulls/nom_gila_monster.ship"
+			],
+			[
+				"pulse",
+				"vanilla/weapons/pulselaser.wpn"
+			],
+			[
+				"scarab",
+				"mods/ss-nom/data/variants/fighters/nom_scarab_assault.variant"
+			],
+			[
+				"flareseeker",
+				"vanilla/shipsystems/proj/flare_seeker.proj"
+			],
+			[
+				"flarefigh",
+				"vanilla/shipsystems/proj/flare_fighter.proj"
+			],
+			[
+				"flareaci",
+				"vanilla/shipsystems/flarelauncher_active.system"
+			],
+			[
+				"flarestand",
+				"vanilla/shipsystems/proj/flare_standard.proj"
+			],
+			[
+				"flarel",
+				"vanilla/shipsystems/wpn/flarelauncher1.wpn"
+			],
+			[
+				"configsettings",
+				"vanilla/config/settings.json"
+			],
+			[
+				"vansett",
+				"vanilla/config/settings.json"
+			],
+			[
+				"deathbloom",
+				"mods/ss-nom/data/variants/nom_death_bloom_strike.variant"
+			],
+			[
+				"nomdeath",
+				"mods/ss-nom/data/hulls/nom_death_bloom.ship"
+			],
+			[
+				"deathbloomvar",
+				"mods/ss-nom/data/variants/nom_death_bloom_strike.variant"
+			],
+			[
+				"deathbloomship",
+				"mods/ss-nom/data/hulls/nom_death_bloom.ship"
+			],
+			[
+				"title",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"nom_rattle",
+				"mods/ss-nom/data/hulls/nom_rattlesnake.ship"
+			],
+			[
+				"dominatorout",
+				"vanilla/variants/dominator_Outdated.variant"
+			],
+			[
+				"nomstrings",
+				"mods/ss-nom/data/strings/descriptions.csv"
+			],
+			[
+				"rattlevar",
+				"mods/ss-nom/data/variants/nom_rattlesnake_assault.variant"
+			],
+			[
+				"sandstovar",
+				"mods/ss-nom/data/variants/nom_sandstorm_assault.variant"
+			],
+			[
+				"mod",
+				"mods/ss-nom/mod_info.json"
+			],
+			[
+				"oasisvar",
+				"mods/ss-nom/data/variants/nom_oasis_standard.variant"
+			],
+			[
+				"fxjava",
+				"mods/ss-nom/data/scripts/weapons/RenderMissileAsProjectileFXBase.java"
+			],
+			[
+				"nommodinfo",
+				"mods/ss-nom/mod_info.json"
+			],
+			[
+				"doomcannonwpn",
+				"mods/ss-nom/data/weapons/nom_doom_cannon.wpn"
+			],
+			[
+				"autopulse",
+				"vanilla/weapons/autopulse.wpn"
+			],
+			[
+				"vulcan",
+				"vanilla/weapons/vulcan.wpn"
+			],
+			[
+				"sandvar",
+				"mods/ss-nom/data/variants/nom_sandstorm_assault.variant"
+			],
+			[
+				"wurmvar",
+				"mods/ss-nom/data/variants/nom_wurm_assault.variant"
+			],
+			[
+				"iguanavar",
+				"mods/ss-nom/data/variants/fighters/nom_iguana_assault.variant"
+			],
+			[
+				"flyca",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"scorpvar",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"scorpion",
+				"mods/ss-nom/data/hulls/nom_scorpion.ship"
+			],
+			[
+				"gilavar",
+				"mods/ss-nom/data/variants/nom_gila_monster_antibattleship.variant"
+			],
+			[
+				"sounds",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"flak",
+				"vanilla/weapons/proj/flak_shot.proj"
+			],
+			[
+				"fusionproj",
+				"mods/ss-nom/data/weapons/proj/nom_self_sustained_fusion_torpedo_projectile.proj"
+			],
+			[
+				"torpmini",
+				"mods/ss-nom/data/weapons/proj/nom_self_sustained_fusion_torpedo_projectile_mini.proj"
+			],
+			[
+				"type1srm",
+				"vanilla/weapons/proj/type_1_srm.proj"
+			],
+			[
+				"toadvariant",
+				"mods/ss-nom/data/variants/fighters/nom_toad_assault.variant"
+			],
+			[
+				"flycatcher",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"scorpionassa",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"fauxplasmashot",
+				"mods/ss-nom/data/weapons/proj/nom_effect_faux_plasma_shot.proj"
+			],
+			[
+				"plasmashot",
+				"vanilla/weapons/proj/plasma_shot.proj"
+			],
+			[
+				"nom_effect_faux_plasma_shot_mini",
+				"mods/ss-nom/data/weapons/proj/nom_effect_faux_plasma_shot_mini.proj"
+			],
+			[
+				"fauxplas",
+				"mods/ss-nom/data/weapons/nom_effect_faux_plasma.wpn"
+			],
+			[
+				"engine",
+				"mods/nom/data/config/engine_styles.json"
+			],
+			[
+				"pilum",
+				"vanilla/weapons/pilum.wpn"
+			],
+			[
+				"plasma_shot",
+				"vanilla/weapons/proj/plasma_shot.proj"
+			],
+			[
+				"plasma",
+				"vanilla/weapons/plasma.wpn"
+			],
+			[
+				"heatseeker_mrm",
+				"vanilla/weapons/proj/heatseeker_mrm.proj"
+			],
+			[
+				"ioncannon_shot",
+				"vanilla/weapons/proj/ioncannon_shot.proj"
+			],
+			[
+				"scorpionvar",
+				"mods/nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"heatseekr",
+				"vanilla/weapons/proj/heatseeker_mrm.proj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lunchvote",
+				"/C/Dev/Github/lunch_vote/this.sublime-project"
+			],
+			[
+				"",
+				"/C/Dev/BlitzMax/sf-ship-ed/starfarer_ship_editor.sublime-project"
+			]
+		],
+		"width": 381.6
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
