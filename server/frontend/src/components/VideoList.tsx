@@ -7,6 +7,7 @@ import {
   fetchVideosSuccess,
   fetchVideosFailure,
 } from '../features/videos/videoSlice';
+import YouTubeThumbnail from './YouTubeThumbnail';
 
 const VideoList: React.FC = () => {
   const dispatch = useDispatch<AppDispatch>();
@@ -47,7 +48,7 @@ const VideoList: React.FC = () => {
         {videos.map((video) => (
           <li key={video.id}>
             <h3>{video.title}</h3>
-            <a href={video.url}>Watch Video</a>
+            <YouTubeThumbnail url={video.url} />
           </li>
         ))}
       </ul>
