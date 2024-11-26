@@ -1,5 +1,5 @@
 import React from 'react';
-import { useSelector, useDispatch } from 'react-redux';
+// import { useSelector, useDispatch } from 'react-redux';
 // import { set } from './features/videos/videoSlice';
 import VideoList from './components/VideoList';
 
@@ -8,7 +8,7 @@ function App() {
   // const dispatch = useDispatch();
 
   return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+    <div className="text-center mt-12">
       <VideoList/>
     </div>
   );

@@ -5,7 +5,6 @@ type YouTubeThumbnailProps = {
 };
 
 const YouTubeThumbnail: React.FC<YouTubeThumbnailProps> = ({ url }) => {
-  // Extract the YouTube video ID from the link
   const getYouTubeId = (url: string): string | null => {
     const regExp =
       /(?:youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
@@ -23,12 +22,9 @@ const YouTubeThumbnail: React.FC<YouTubeThumbnailProps> = ({ url }) => {
 
   return (
     <div>
-      <img src={thumbnailUrl} alt="YouTube Thumbnail" />
+      <img src={thumbnailUrl} alt="YouTube Thumbnail" className="w-full h-auto rounded-lg shadow-md" />
     </div>
   );
 };
 
 export default YouTubeThumbnail;
-
-// Usage example:
-// <YouTubeThumbnail url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" />
