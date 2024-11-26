@@ -10,7 +10,7 @@ export interface VideoState {
 // Define the shape of a Video object
 export interface Video {
   id: number;
-  title: string;
+  name: string;
   url: string;
 }
 

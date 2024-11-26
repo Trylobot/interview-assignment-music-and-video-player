@@ -13,7 +13,7 @@ const VideoList: React.FC = () => {
   const dispatch = useDispatch<AppDispatch>();
   const { videos, loading, error } = useSelector((state: RootState) => state.video);
   const [isModalVisible, setIsModalVisible] = useState(false);
-  const [currentVideo, setCurrentVideo] = useState<{ title: string; url: string } | null>(null);
+  const [currentVideo, setCurrentVideo] = useState<{ name: string; url: string } | null>(null);
 
   useEffect(() => {
     const fetchVideos = async () => {
@@ -37,7 +37,7 @@ const VideoList: React.FC = () => {
     fetchVideos();
   }, [dispatch]);
 
-  const showModal = (video: { title: string; url: string }) => {
+  const showModal = (video: { name: string; url: string }) => {
     setCurrentVideo(video);
     setIsModalVisible(true);
   };
@@ -56,7 +56,7 @@ const VideoList: React.FC = () => {
       <ul className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         {videos.map((video) => (
           <li key={video.id} className="cursor-pointer" onClick={() => showModal(video)}>
-            <h3 className="text-lg font-semibold mb-2">{video.title}</h3>
+            <h3 className="text-lg font-semibold mb-2">{video.name}</h3>
             <YouTubeThumbnail url={video.url} />
           </li>
         ))}
@@ -72,10 +72,10 @@ const VideoList: React.FC = () => {
           <div className="space-y-4">
             <Input
               className="mb-2"
-              value={currentVideo.title}
+              value={currentVideo.name}
               placeholder="Video Title"
               onChange={(e) =>
-                setCurrentVideo({ ...currentVideo, title: e.target.value })
+                setCurrentVideo({ ...currentVideo, name: e.target.value })
               }
             />
             <Input
