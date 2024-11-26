@@ -14,9 +14,6 @@ mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'r
 mysql> SELECT user,plugin FROM mysql.user;
 mysql> CREATE DATABASE test;
 
-(Build frontend)
-npm run build-frontend
-
 (Run webserver)
 npm run start:dev
 

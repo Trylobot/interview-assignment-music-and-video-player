@@ -1,15 +1,18 @@
 import React from 'react';
-// import { useSelector, useDispatch } from 'react-redux';
-// import { set } from './features/videos/videoSlice';
 import VideoList from './components/VideoList';
+import Sidebar from './components/Sidebar';
+import MediaPlayer from './components/MediaPlayer';
 
 function App() {
-  // const videos = useSelector(state => state.video.value);
-  // const dispatch = useDispatch();
-
   return (
-    <div className="text-center mt-12">
-      <VideoList/>
+    <div className="flex h-screen bg-gray-900 text-white">
+      <Sidebar />
+      <div className="flex-1 flex flex-col">
+        <div className="flex-1 overflow-y-auto p-8">
+          <VideoList />
+        </div>
+        <MediaPlayer />
+      </div>
     </div>
   );
 }
