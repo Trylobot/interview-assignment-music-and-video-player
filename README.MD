@@ -15,6 +15,7 @@ mysql> SELECT user,plugin FROM mysql.user;
 mysql> CREATE DATABASE test;
 
 (Run webserver)
+npm install
 npm run start:dev
 
 (In browser)
