@@ -12,6 +12,8 @@ export interface Video {
   id: number;
   name: string;
   url: string;
+  createdAt: number;
+  updatedAt: number;
 }
 
 const initialState: VideoState = {
